@@ -1,1 +1,1 @@
-print("Hello World! Pass this test, please.\n")
+print("Hello World! Pass this test, please.")

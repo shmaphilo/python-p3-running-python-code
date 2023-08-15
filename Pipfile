@@ -12,5 +12,3 @@ pytest = "7.1.3"
 
 [requires]
 python_full_version = "3.8.10"
-pipenv install
-pipenv shell
